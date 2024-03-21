@@ -33,9 +33,13 @@ Please download the data folder from this [link](https://www.dropbox.com/s/t7p9e
 ├──.......
 ```
 **Step 3: visualize txt files**
+```
+
 conda activate LCV_PC_VIS
 python txtvisualization.py
 python visualize_ply.py    // for ply files
+
+```
 
 ## What to Expect?
 In this turorial, we learn the easy ways to visualize several different point cloud file formats that are commonly used to store point cloud-type information using two very popular python packages ([Open3D](http://www.open3d.org/) & [pptk - Point Processing Toolkit](https://github.com/heremaps/pptk)).
