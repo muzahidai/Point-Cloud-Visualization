@@ -32,7 +32,7 @@ Please download the data folder from this [link](https://www.dropbox.com/s/t7p9e
 ├──data/
 ├──.......
 ```
-**Step 3: visualize txt files**
+**Step 3: visualize txt/ply files**
 ```
 
 conda activate LCV_PC_VIS
