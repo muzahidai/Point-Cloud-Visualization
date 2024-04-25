@@ -66,6 +66,9 @@ In this turorial, we learn the easy ways to visualize several different point cl
 6. las file: vegetation_1_3.las: https://github.com/laspy/laspy/blob/master/tests/data/vegetation_1_3.las
 7. laz file: https://github.com/laspy/laspy/blob/master/tests/data/plane.laz
 8. ModelNet40: https://modelnet.cs.princeton.edu/
+9. Hidden points removal [[link](https://www.open3d.org/docs/release/tutorial/geometry/pointcloud.html)] or
+10. XYZ format vizualization [[link](http://lidarview.com/)] or
+11. Run visualize_xyz.py from the directory of xyz files
 
 ---
 
